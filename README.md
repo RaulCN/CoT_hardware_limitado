@@ -39,13 +39,14 @@ A ideia central é **fazer muito com pouco**, promovendo a **emancipação** por
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/pensamento-profundo-r1.git
+   git clone https://github.com/seu-usuario/pensamento-profundo-r1.git](https://github.com/RaulCN/CoT_hardware_limitado.git
+
    cd pensamento-profundo-r1
    ```
 
 2. Execute o script:
    ```bash
-   python Pensamento_Profundo_R1_hardware_limitado_7.py
+   python CoT_hardware_limitado.py
    ```
 
 3. Digite uma pergunta quando solicitado. Exemplo:
