@@ -55,15 +55,71 @@ A ideia central é **fazer muito com pouco**, promovendo a **emancipação** por
 
 4. Aguarde o processamento e veja a resposta gerada.
 
-### Exemplo de Saída (prompt usado no script, log salvo na posta output)
+## Resultados
 
-```
-==================================================
-Resultado: Imagine que a Terra é um grande amigo que gosta de abraçar tudo! Ela tem uma força secreta que a puxa para baixo...
-Tempo de processamento: 00:02:16
-Memória usada para carregar o modelo: 2690.93 MB
-==================================================
-```
+O projeto foi testado em um ambiente de hardware limitado, com um processador **Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz** e **11 GB de RAM**, demonstrando que é possível executar modelos de linguagem avançados (como o **Gemma 3B**) e aplicar técnicas de **Chain-of-Thought (CoT)** mesmo em sistemas modestos. Abaixo está um exemplo de execução e os resultados obtidos:
+
+### Exemplo de Execução
+
+**Pergunta:**
+
+Explique a gravidade para uma criança de 5 anos.
+
+
+
+**Resposta Gerada:**
+
+Ok, vamos pensar sobre como explicar a gravidade para uma criança de 5 anos. A chave é usar analogias e exemplos concretos que eles possam entender. A gravidade não é um conceito abstrato, então precisamos torná-lo tangível.
+
+    Comece com o que eles já sabem: Crianças pequenas geralmente têm uma boa compreensão de atração e força. Eles gostam de empurrar coisas, puxar coisas, e entender que algumas coisas simplesmente "pegam" outras.
+
+    A Terra é como um grande ímã: Explique que a Terra é muito, muito grande e forte. Ela é como um ímã gigante que atrai todas as outras coisas.
+
+    Demonstração simples: Pegue uma bola e peça para a criança lançá-la para o alto. Quando ela cai, diga: “Olha, a Terra a puxou para baixo! A Terra está atraindo a bola. É como se ela estivesse querendo voltar para casa!”
+
+    Explique a força: Use palavras simples como "atração" ou "puxar". “A Terra está puxando a bola para baixo. É por isso que ela não fica flutuando.”
+
+    Exemplos do dia a dia: “É por isso que você fica no chão e não flutua! É por isso que a água cai do balde e não sobe.”
+
+    Simplifique a explicação: Evite termos técnicos como "massa" ou "aceleração gravitacional". Foque na ideia básica de que a Terra está puxando tudo para baixo.
+
+    Verificação da compreensão: Faça perguntas como: "Por que as coisas caem quando você as joga para cima?" ou "O que aconteceria se a Terra não tivesse gravidade?" Isso ajudará a verificar se a criança realmente entendeu o conceito.
+
+Agora, com base nesse raciocínio passo a passo, aqui está a resposta final:
+
+“Imagine que a Terra é um grande amigo que gosta de abraçar tudo! Ela tem uma força secreta que a puxa para baixo. É por isso que você fica no chão e não flutua. Quando você joga uma bola para cima, a Terra a puxa de volta para baixo. A Terra é como um ímã gigante, e ela está atraindo tudo para ela! É por isso que a água cai do balde e as coisas caem quando você as joga para cima.”
+Copy
+
+
+**Métricas de Desempenho:**
+- **Tempo de Processamento:** 2 minutos e 16 segundos.
+- **Memória Usada:** 2690.93 MB.
+- **Hardware:** Sistema com Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz e 11 GB de RAM.
+
+**Arquivo de Saída:**
+- A resposta gerada é salva automaticamente na pasta `output`, em um arquivo de texto com o nome baseado na pergunta e no horário de execução. Exemplo: `Explique_a_gravidade_para_uma_criança_de_5_anos_20231025_1423.txt`.
+
+---
+
+### Análise dos Resultados
+
+1. **Qualidade da Resposta**:
+   - A resposta gerada pelo modelo é **clara, estruturada e adequada** para o público-alvo (crianças de 5 anos).
+   - O uso de **analogias** (Terra como um "grande amigo" ou "ímã gigante") e **exemplos do dia a dia** (jogar uma bola, água caindo do balde) torna o conceito de gravidade fácil de entender.
+
+2. **Eficiência em Hardware Limitado**:
+   - O projeto demonstra que é possível executar modelos de linguagem avançados em sistemas com **apenas 11 GB de RAM**.
+   - O tempo de processamento (2 minutos e 16 segundos) é **aceitável** para um ambiente de hardware limitado.
+
+3. **Aplicação de Chain-of-Thought (CoT)**:
+   - O modelo aplicou a técnica de **CoT** de forma eficaz, explicando seu raciocínio passo a passo antes de fornecer a resposta final.
+   - Isso mostra que técnicas avançadas de IA podem ser utilizadas mesmo em sistemas modestos.
+
+---
+
+### Conclusão
+
+Os resultados demonstram que é possível **fazer muito com pouco**, trazendo conceitos de IA de ponta para ambientes de hardware limitado. Isso abre portas para a **democratização da tecnologia**, permitindo que países emergentes, startups, estudantes e curiosos explorem o potencial da IA sem a necessidade de investimentos elevados em infraestrutura.
 
 ### Análise dos Resultados
 
