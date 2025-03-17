@@ -54,6 +54,7 @@ Resultado: Imagine que a Terra é um grande amigo que gosta de abraçar tudo! El
 Tempo de processamento: 00:02:16
 Memória usada para carregar o modelo: 2690.93 MB
 ==================================================
+```
 
 ### Análise dos Resultados
 
