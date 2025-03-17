@@ -46,7 +46,7 @@ A ideia central é **fazer muito com pouco**, promovendo a **emancipação** por
 
 4. Aguarde o processamento e veja a resposta gerada.
 
-### Exemplo de Saída
+### Exemplo de Saída (prompt usado no script, log salvo na posta output)
 
 ```
 ==================================================
@@ -54,6 +54,26 @@ Resultado: Imagine que a Terra é um grande amigo que gosta de abraçar tudo! El
 Tempo de processamento: 00:02:16
 Memória usada para carregar o modelo: 2690.93 MB
 ==================================================
+
+### Análise dos Resultados
+
+1. **Qualidade da Resposta**:
+   - A resposta gerada pelo modelo é **clara, estruturada e adequada** para o público-alvo (crianças de 5 anos).
+   - O uso de **analogias** (Terra como um "grande amigo" ou "ímã gigante") e **exemplos do dia a dia** (jogar uma bola, água caindo do balde) torna o conceito de gravidade fácil de entender.
+
+2. **Eficiência em Hardware Limitado**:
+   - O projeto demonstra que é possível executar modelos de linguagem avançados em sistemas com **apenas 6 GB de RAM**.
+   - O tempo de processamento (2 minutos e 16 segundos) é **aceitável** para um ambiente de hardware limitado.
+
+3. **Aplicação de Chain-of-Thought (CoT)**:
+   - O modelo aplicou a técnica de **CoT** de forma eficaz, explicando seu raciocínio passo a passo antes de fornecer a resposta final.
+   - Isso mostra que técnicas avançadas de IA podem ser utilizadas mesmo em sistemas modestos.
+
+---
+
+### Conclusão
+
+Os resultados demonstram que é possível **fazer muito com pouco**, trazendo conceitos de IA de ponta para ambientes de hardware limitado. Isso abre portas para a **democratização da tecnologia**, permitindo que países emergentes, startups, estudantes e curiosos explorem o potencial da IA sem a necessidade de investimentos elevados em infraestrutura.
 ```
 
 ## Tecnologias Utilizadas
