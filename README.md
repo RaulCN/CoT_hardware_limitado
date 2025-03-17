@@ -1,6 +1,6 @@
 # Chain-of-Thought (CoT) (Hardware Limitado)
 
-Um projeto experimental que testa conceitos de estado da arte em Inteligência Artificial, como **Chain-of-Thought (CoT)**, utilizando modelos de linguagem recentes (como o **Gemma 3B** e **DeepSeek 7B**) em ambientes de extrema restrição de hardware. O objetivo é demonstrar que é possível realizar tarefas avançadas de IA com recursos limitados, contribuindo para a **democratização da tecnologia** e sua aplicação em contextos como:
+Um projeto experimental que testa conceitos de estado da arte em Inteligência Artificial, como **Chain-of-Thought (CoT)**, utilizando modelos de linguagem recentes (como o **Gemma 3B** e **DeepSeek 7B**) em ambientes de extrema restrição de hardware como máquinas locais. O objetivo é demonstrar que é possível realizar tarefas avançadas de IA com recursos limitados, contribuindo para a **democratização da tecnologia** e sua aplicação em contextos como:
 
 - **Países emergentes**: Onde o acesso a hardware de ponta é limitado.
 - **Startups**: Que precisam criar protótipos com custos reduzidos.
@@ -10,7 +10,7 @@ A ideia central é **fazer muito com pouco**, promovendo a **emancipação** por
 
 ---
 
-### Hardware Utilizado
+### Hardware Utilizado (meu notebook)
 
 - **Processador**: Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz
 - **Memória RAM**: 11 GB
