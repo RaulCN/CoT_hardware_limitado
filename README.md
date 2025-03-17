@@ -1,4 +1,4 @@
-# Pensamento Profundo R1 (Hardware Limitado)
+# Chain-of-Thought (CoT) (Hardware Limitado)
 
 Um projeto experimental que testa conceitos de estado da arte em Inteligência Artificial, como **Chain-of-Thought (CoT)**, utilizando modelos de linguagem recentes (como o **Gemma 3B** e **DeepSeek 7B**) em ambientes de extrema restrição de hardware. O objetivo é demonstrar que é possível realizar tarefas avançadas de IA com recursos limitados, contribuindo para a **democratização da tecnologia** e sua aplicação em contextos como:
 
