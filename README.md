@@ -6,7 +6,16 @@ Um projeto experimental que testa conceitos de estado da arte em Inteligência A
 - **Startups**: Que precisam criar protótipos com custos reduzidos.
 - **Estudantes e curiosos**: Que desejam explorar IA sem a necessidade de equipamentos caros.
 
-A ideia central é **fazer muito com pouco**, promovendo a **emancipação** por meio da tecnologia.
+A ideia central é **fazer muito com pouco**, promovendo a **emancipação** por meio da tecnologia. Este projeto foi desenvolvido e testado em um sistema com as seguintes especificações:
+
+---
+
+### Hardware Utilizado
+
+- **Processador**: Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz
+- **Memória RAM**: 11 GB
+
+---
 
 ## Funcionalidades
 
@@ -75,7 +84,7 @@ Memória usada para carregar o modelo: 2690.93 MB
 ### Conclusão
 
 Os resultados demonstram que é possível **fazer muito com pouco**, trazendo conceitos de IA de ponta para ambientes de hardware limitado. Isso abre portas para a **democratização da tecnologia**, permitindo que países emergentes, startups, estudantes e curiosos explorem o potencial da IA sem a necessidade de investimentos elevados em infraestrutura.
-```
+
 
 ## Tecnologias Utilizadas
 
